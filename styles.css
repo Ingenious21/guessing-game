@@ -8,9 +8,10 @@
     height: 60px;
     border: 2px solid #0a0a23;
     margin: 30px auto;
+    margin-bottom: 8px;
 }
 
-#number {
+#input {
     font-size: 25px;
     font-weight: bold;
 }
@@ -19,7 +20,7 @@ button {
     width: 80px;
     height: 50px;
     border: 2px solid #feac32;
-    margin: 30px auto;
+    margin: -20px auto;
     background-color: #feac32;
     background-image: linear-gradient(#fecc4c, #ffac33);
     color: white;
